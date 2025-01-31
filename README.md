@@ -1,7 +1,7 @@
 Hello World!
 
-You can head to file index.js, line ...: class="centered" id="logo">Lupita Arroyo.. and change it to your name!
+You can head to file index.js, line 2: drawText('Lupita Arroyo');.. and change it to your name!
 
 Cheers!
 
-Lupita
+Lupita Arroyo-Lozano
